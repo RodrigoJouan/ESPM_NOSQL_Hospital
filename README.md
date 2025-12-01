@@ -10,7 +10,7 @@ O projeto consiste em um banco de dados Neo4j populado com dados de médicos, pa
 
 A imagem abaixo representa o modelo de dados criado no Neo4j, mostrando as relações entre os diferentes atores do sistema.
 
-![Diagrama do Modelo de Dados](screenshots/bloom_visualization.png)
+![Diagrama do Modelo de Dados](screenshots/bloom_visualisation.png)
 
 ## Estrutura do Projeto
 
